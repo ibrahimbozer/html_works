@@ -1,0 +1,1 @@
+console.log("Konu dagilimlari sayfasi calisti"); 
